@@ -28,7 +28,5 @@ $(document).ready(function () {
     });
 });
 
-// const resultSub = substract(number1, number2);
-// const resultMul = multiply(number1, number2);
-// const resultDiv = divide(number1, number2);
+
 
